@@ -1,6 +1,6 @@
 [project]
 name = "preeti-unicode-converter"
-version = "0.1.0"
+version = "0.1.1"
 description = "A highly customizable Python package for converting Preeti font text to Unicode (Nepali)"
 readme = "README.md"
 authors = [
